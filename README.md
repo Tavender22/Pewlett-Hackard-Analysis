@@ -12,7 +12,7 @@ There are over 133,000 titles that are facing retirement BUT there are fewer emp
 
 3) A significant number of these employees are senior level managers/engineers that may represent a significant brain drain to the organization. (Source is retiring titles).
 
-![Retiring Employees, by title](https://github.com/Tavender22/Pewlett-Hackard-Analysis/blob/master/Queries/Candidate%20Count.png)
+**RETIRING EMPLOYEES, by title** ![Retiring Employees, by title](https://github.com/Tavender22/Pewlett-Hackard-Analysis/blob/master/Queries/Candidate%20Count.png)
 
 Senior engineers and senior staff make up the majority of potential retirements, with over 57,000 potential staff.
 
